@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Encriptador de texto</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
+
+    </head>
+
+    <body>
+        <header>
+            <div class="logo">
+                <h1><img src="imagenes/Logoalura.png"></h1>
+                <h1>Encriptador de texto</h2>
+
+            </div>
+            
+        </header>
+
+        <main>
+            
+            <section>
+                <div class="caja-advertencia">
+                    <ul class="advertencia">
+                        <li><img src="imagenes/bi_exclamation-circle-fill.png"></li>
+                        <li><p>Solo letras minúsculas y sin acentos</p></li>
+                        
+                    </ul>
+                </div>
+
+    
+                <div class="caja-texto">
+                    <textarea id="encriptar-desencriptar" class="textarea-ingreso" required placeholder="Ingresa aquí el texto que desees encriptar o desencriptar." ></textarea>
+                    
+                </div>
+    
+                <div class="botones-encriptar">
+
+                    <input type="button" id="boton-encriptar" value="Encriptar" class="boton-encriptar" onclick="encriptarTexto()">
+
+                    <input type="button" id="boton-desencriptar" value="Desencriptar" class="boton-desencriptar" onclick="desencriptarTexto()">
+                    
+                </div>
+
+            </section>
+
+            <section>
+                <div class="caja-texto">
+                    <textarea  id="textarea-mensaje" class="textarea-egreso" placeholder=""></textarea>
+
+                    
+                <img src="imagenes/Muñeco.png" class="muneco" alt="Persona con lupa viendo un diamante" id="munieco">
+                <p class="ninguno" id="ningun-Texto">Ningún mensaje fue encontrado</p>              
+    
+                </div>
+    
+                <div>
+                    <input type="button" name="copiar" value="Copiar" class="boton-copiar" id="boton-copiar" onclick="copiartexto()">
+    
+                </div>
+
+            </section>
+
+        </main>
+
+        <footer>
+            <img src="imagenes/encriptado.png" alt="Logo encriptador">
+            <p class="copyright">&copy Copyright Encriptador de textos</p>
+            <p class="copyright">Edgar Reyes Ursulo</p>
+            
+        </footer>
+
+        <script src="myscript.js"></script>
+
+    </body>
+
+  
+
+</html>
