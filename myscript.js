@@ -53,7 +53,6 @@ function desencriptarTexto (){
         alert("Ingresa un mensaje para desencriptar");
     }
     else{
-      // alert(textoDeCaja);
        var resultoDesencriptacion = "";
        for (var i=0; i <= textoDeCaja.length; i++) { 
  
