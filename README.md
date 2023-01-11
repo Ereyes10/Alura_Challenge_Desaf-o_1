@@ -1,4 +1,4 @@
-## Bienvenido a mi proyecto!
+## ¡Bienvenido a mi proyecto!
 Mi nombre es Edgar Reyes y les presento mi trabajo
 
 Este proyecto (primer Challenge) lo desarrolle como parte del programa **One Oracle Next Education** en conjunto con **Alura**, y la funcion de esta página web es crear un encriptador y desencriptador de textos.
@@ -18,4 +18,8 @@ Por ejemplo:
 `"gato" => "gaitober"`
 `gaitober" => "gato"`
 
+## Imagenes del proyecto
+![Captura de como luce el proyecto:](https://postimg.cc/G41GGMXn)
+![En la siguiente captura se insertó un texto encriptado en el primer campo de texto, y en el segundo campo se muestra el texto desencriptado:](https://postimg.cc/Xp59ZMcg)
+![En esta captura se muestra la página en modo responsivo para que funcione en pantallas de celular, se utilióo media query para esto:](https://postimg.cc/BtXT0Pjk)
 
