@@ -24,4 +24,4 @@ Por ejemplo:
 ![En esta captura se muestra la página en modo responsivo para que funcione en pantallas de celular, se utilióo media query para esto:](https://postimg.cc/BtXT0Pjk)
 
 ## Imagenes
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://postimg.cc/G41GGMXn)
