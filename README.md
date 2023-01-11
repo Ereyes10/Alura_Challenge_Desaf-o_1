@@ -25,5 +25,6 @@ Por ejemplo:
 - En la siguiente captura se insertó un texto encriptado en el primer campo de texto, y en el segundo campo se muestra el texto desencriptado:
 [![Captura2.png](https://i.postimg.cc/dtH6xwhg/Captura2.png)](https://postimg.cc/Xp59ZMcg)
 
-- En esta captura se muestra la página en modo responsivo para que funcione en pantallas de celular, se utilióo media query para esto:
+- En esta captura se muestra la página en modo responsivo para que funcione en pantallas de celular, se utilizó media query para esto:
+
 [![para-movil.png](https://i.postimg.cc/Kc5JtnxG/para-movil.png)](https://postimg.cc/BtXT0Pjk)
