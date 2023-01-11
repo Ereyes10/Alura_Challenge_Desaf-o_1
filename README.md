@@ -24,6 +24,6 @@ Por ejemplo:
 ![En esta captura se muestra la página en modo responsivo para que funcione en pantallas de celular, se utilióo media query para esto:](https://postimg.cc/BtXT0Pjk)
 
 ## Imagenes
-[![Captura1.png](https://i.postimg.cc/0yzngFmj/Captura1.png)](https://postimg.cc/G41GGMXn)
+[![Captura de como luce el proyecto:][Captura1.png](https://i.postimg.cc/0yzngFmj/Captura1.png)](https://postimg.cc/G41GGMXn)
 [![Captura2.png](https://i.postimg.cc/dtH6xwhg/Captura2.png)](https://postimg.cc/Xp59ZMcg)
 [![para-movil.png](https://i.postimg.cc/Kc5JtnxG/para-movil.png)](https://postimg.cc/BtXT0Pjk)
